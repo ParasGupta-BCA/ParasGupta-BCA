@@ -4,17 +4,15 @@ Aspiring Data Analyst | Cyber & Data Analytics Enthusiast | Front-End Web Develo
 </h3>
 
 <p align="center">
-Turning raw data into meaningful insights 📊 and building modern web experiences
+Turning raw data into meaningful insights 📊 and building modern web dashboards
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20Views&color=0e75b6&style=flat" alt="parasgupta-bca" />
+  <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parasgupta-bca&theme=onedark&row=1&column=6" alt="parasgupta-bca" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=parasgupta-bca&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -23,26 +21,24 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 
 - 🌱 Currently learning **Python for Data Analysis, SQL, Power BI, Data Visualization, Cyber Analytics & Advanced JavaScript**
 - 👯 Looking to collaborate on **Data Analysis, Cyber Analytics & Front-End Web Projects**
-- 🤝 Seeking help with **Advanced Data Analytics, Machine Learning & Security Analytics**
-- 👨‍💻 Portfolio: **[parasgupta-bca.github.io/Portfolio](https://parasgupta-bca.github.io/Portfolio)**
-- 📝 Writing about **Data Analytics, Technology & Web Development**
-- 💬 Ask me about **Data Analysis, Cyber Analytics, Front-End Web Development, Git & GitHub**
-- 📫 Email: **parasgupta4494@gmail.com**
+- 🤝 Looking for help with **Advanced Data Analytics, Machine Learning & Security Analytics**
+- 👨‍💻 Portfolio: <a href="https://parasgupta-bca.github.io/Portfolio">parasgupta-bca.github.io/Portfolio</a>
+- 💬 Ask me about **Data Analysis, Cyber & Data Analytics, Front-End Web Development, Git & GitHub**
+- 📫 Reach me at **parasgupta4494@gmail.com**
 - ⚡ Fun fact: **I love converting complex data into clear insights 📈**
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="left">
-<a href="https://linkedin.com/in/parasgupta-binary0101" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/parasgupta-binary0101">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://twitter.com/dfounderparas" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://twitter.com/dfounderparas">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/parasgupta26_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/parasgupta26_">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </p>
 
@@ -68,7 +64,8 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br/>Tableau
+      <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40"/><br/>
+      Tableau
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL
@@ -165,16 +162,15 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parasgupta-bca&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parasgupta-bca&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasgupta-bca&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasgupta-bca&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories!
