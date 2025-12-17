@@ -95,7 +95,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
   Seaborn
      </td>
     <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="40"/><br/>Plotly
+      <img src="https://cdn.brandfetch.io/idwPNp71Xw/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764036938735" width="40"/><br/>Plotly
     </td>
   </tr>
 </table>
