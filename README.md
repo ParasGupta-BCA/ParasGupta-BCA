@@ -30,17 +30,17 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/-parasgupta--binary0101-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/dfounderparas">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/-@dfounderparas-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://instagram.com/parasgupta26_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/-@parasgupta26__-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
