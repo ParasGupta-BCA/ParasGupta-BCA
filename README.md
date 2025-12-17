@@ -8,6 +8,11 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 </p>
 
 <p align="center">
+🔗 <a href="https://parasgupta-bca.github.io/Portfolio/">Portfolio</a> • 
+🔗 <a href="https://github.com/ParasGupta-BCA">GitHub Profile</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
