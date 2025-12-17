@@ -30,19 +30,20 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
-<div align="left">
+<p align="left">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="https://twitter.com/dfounderparas">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="28"/>
   </a>
   <a href="https://instagram.com/parasgupta26_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28"/>
   </a>
-</div>
+</p>
+
 ---
 
 ## 🛠 Languages & Tools (Data Analyst)
