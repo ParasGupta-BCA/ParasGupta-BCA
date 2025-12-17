@@ -161,7 +161,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parasgupta-bca&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="360"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
