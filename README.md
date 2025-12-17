@@ -53,39 +53,31 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ### 📊 Data Analytics & Visualization
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>
-      Python
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br/>
-      Pandas
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>Pandas
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/><br/>
-      NumPy
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>NumPy
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/>
-      Power BI
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/><br/>Power BI
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Tableau_Logo.png" width="40"/><br/>
-      Tableau
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/><br/>Tableau
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>
-      MySQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/><br/>
-      PostgreSQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/><br/>
-      Excel
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40"/><br/>Excel
     </td>
   </tr>
 </table>
@@ -95,21 +87,17 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ### 📈 Data Science & ML Basics
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/><br/>
-      Scikit-learn
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/>Scikit-learn
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/><br/>
-      Matplotlib
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/>Matplotlib
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Seaborn_logo.svg" width="40"/><br/>
-      Seaborn
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/>Seaborn
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/><br/>
-      Plotly
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="40"/><br/>Plotly
     </td>
   </tr>
 </table>
@@ -119,21 +107,17 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ### ☁️ Data, Cyber & Cloud Platforms
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br/>
-      Google Cloud
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br/>Google Cloud
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>
-      AWS
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>AWS
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>
-      Firebase
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40"/><br/>
-      BigQuery
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40"/><br/>BigQuery
     </td>
   </tr>
 </table>
@@ -143,21 +127,17 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ### 🌐 Front-End (for Data Dashboards)
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br/>
-      HTML5
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>
-      CSS3
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
-      JavaScript
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>
-      React
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React
     </td>
   </tr>
 </table>
@@ -167,21 +147,17 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ### ⚙️ Tools & Workflow
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/><br/>
-      Git
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>
-      GitHub
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br/>
-      Jupyter
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br/>Jupyter
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/><br/>
-      Zapier
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/><br/>Zapier
     </td>
   </tr>
 </table>
