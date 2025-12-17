@@ -11,10 +11,6 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
   <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasgupta-bca&theme=onedark&row=1&column=6" />
-</p>
-
 ---
 
 ## 🚀 About Me
