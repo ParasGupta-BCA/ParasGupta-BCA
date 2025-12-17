@@ -1,36 +1,100 @@
 <h1 align="center">Hi 👋, I'm Paras Gupta</h1>
-<h3 align="center">Aspiring Data Analyst | Cyber & Data Analytics Enthusiast | Front-End Web Developer</h3>
+<h3 align="center">
+Aspiring Data Analyst | Cyber & Data Analytics Enthusiast | Front-End Web Developer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20views&color=0e75b6&style=flat" alt="parasgupta-bca" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parasgupta-bca" alt="parasgupta-bca" /></a> </p>
-
-- 🌱 I’m currently learning **Python for Data Analysis, SQL, Power BI, Data Visualization, Cyber Analytics, Advanced JavaScript**
-
-- 👯 I’m looking to collaborate on **Data Analysis, Cyber Analytics & Front-End Web Projects**
-
-- 🤝 I’m looking for help with **Advanced Data Analytics, Machine Learning & Security Analytics**
-
-- 👨‍💻 All of my projects are available at [https://parasgupta-bca.github.io/Portfolio](https://parasgupta-bca.github.io/Portfolio)
-
-- 📝 I regularly write articles on [Data Analytics, Technology & Web Development](Data Analytics, Technology & Web Development)
-
-- 💬 Ask me about **Data Analysis, Cyber & Data Analytics, Front-End Web Development, Git & GitHub**
-
-- 📫 How to reach me **parasgupta4494@gmail.com**
-
-- ⚡ Fun fact **I love turning raw data into meaningful insights 📊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dfounderparas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dfounderparas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parasgupta-binary0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parasgupta-binary0101" height="30" width="40" /></a>
-<a href="https://instagram.com/parasgupta26_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parasgupta26_" height="30" width="40" /></a>
+<p align="center">
+Turning raw data into meaningful insights 📊 and building modern web experiences
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parasgupta-bca&label=Profile%20Views&color=0e75b6&style=flat" alt="parasgupta-bca" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasgupta-bca&show_icons=true&locale=en&layout=compact" alt="parasgupta-bca" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=parasgupta-bca&theme=onedark&row=1&column=6" alt="parasgupta-bca" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasgupta-bca&show_icons=true&locale=en" alt="parasgupta-bca" /></p>
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Python for Data Analysis, SQL, Power BI, Data Visualization, Cyber Analytics & Advanced JavaScript**
+- 👯 Looking to collaborate on **Data Analysis, Cyber Analytics & Front-End Web Projects**
+- 🤝 Seeking help with **Advanced Data Analytics, Machine Learning & Security Analytics**
+- 👨‍💻 Portfolio: **[parasgupta-bca.github.io/Portfolio](https://parasgupta-bca.github.io/Portfolio)**
+- 📝 Writing about **Data Analytics, Technology & Web Development**
+- 💬 Ask me about **Data Analysis, Cyber Analytics, Front-End Web Development, Git & GitHub**
+- 📫 Email: **parasgupta4494@gmail.com**
+- ⚡ Fun fact: **I love converting complex data into clear insights 📈**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/parasgupta-binary0101" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://twitter.com/dfounderparas" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/parasgupta26_" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+### 📊 Data Analytics
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/>
+</p>
+
+### 🔐 Cyber & Cloud
+<p>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
+
+### 🌐 Front-End Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
+<img src="https://developer.android.com/images/logos/android.svg" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=parasgupta-bca&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasgupta-bca&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
