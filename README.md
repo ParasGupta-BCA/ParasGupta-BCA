@@ -109,7 +109,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br/>Google Cloud
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>AWS
+      <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40"/><br/>AWS
     </td>
     <td align="center" width="110">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase
