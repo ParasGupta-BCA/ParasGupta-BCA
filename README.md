@@ -91,8 +91,9 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br/>Matplotlib
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/><br/>Seaborn
-    </td>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br/>
+  Seaborn
+     </td>
     <td align="center" width="110">
       <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="40"/><br/>Plotly
     </td>
