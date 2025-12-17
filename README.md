@@ -31,18 +31,18 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/parasgupta-binary0101">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/dfounderparas">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/parasgupta26_">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
 
+<div align="left">
+  <a href="https://linkedin.com/in/parasgupta-binary0101">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dfounderparas">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/parasgupta26_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+</div>
 ---
 
 ## 🛠 Languages & Tools (Data Analyst)
