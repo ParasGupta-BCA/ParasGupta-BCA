@@ -164,10 +164,6 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasgupta-bca&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasgupta-bca&theme=tokyonight"/>
-</p>
-
 ---
 
 ⭐ If you like my work, consider starring my repositories!
