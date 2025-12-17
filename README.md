@@ -32,7 +32,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ## 🌐 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=LinkedIn&fontSize=40&fontColor=fff&animation=fadeIn" alt="LinkedIn"/>
   </a>
