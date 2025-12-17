@@ -34,7 +34,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 <div align="left">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=500&section=header&text=LinkedIn&fontSize=40&fontColor=fff&animation=fadeIn" alt="LinkedIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&weight=100&section=header&text=LinkedIn&fontSize=40&fontColor=fff&animation=fadeIn" alt="LinkedIn"/>
   </a>
 </div>
 
