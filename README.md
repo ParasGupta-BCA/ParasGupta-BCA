@@ -30,36 +30,33 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ---
 
-## 🌐 Connect with Me
+<h2>🌐 Connect with Me</h2>
 
-<div align="left">
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/parasgupta-binary0101" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn"
+         style="transition: all 0.3s ease; display: inline-block;"
+         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
+  </a>
   
-<a href="https://linkedin.com/in/parasgupta-binary0101">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/dfounderparas">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/parasgupta26_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+  <a href="https://twitter.com/dfounderparas" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
+         alt="Twitter"
+         style="transition: all 0.3s ease; display: inline-block;"
+         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
+  </a>
+  
+  <a href="https://instagram.com/parasgupta26_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram"
+         style="transition: all 0.3s ease; display: inline-block;"
+         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
+         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
+  </a>
 </div>
-
-<style>
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateX(-20px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  a img {
-    animation: slideIn 0.5s ease-out;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  a img:hover {
-    transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-  }
-</style>
 
 ---
 
