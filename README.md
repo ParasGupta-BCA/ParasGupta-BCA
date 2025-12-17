@@ -74,7 +74,7 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL
     </td>
     <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40"/><br/>Excel
+      <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40"/><br/>Excel
     </td>
   </tr>
 </table>
