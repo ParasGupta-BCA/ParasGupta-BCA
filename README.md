@@ -30,33 +30,25 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+## 🌐 Connect with Me
 
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/parasgupta-binary0101" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn"
-         style="transition: all 0.3s ease; display: inline-block;"
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
-  </a>
-  
-  <a href="https://twitter.com/dfounderparas" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
-         alt="Twitter"
-         style="transition: all 0.3s ease; display: inline-block;"
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
-  </a>
-  
-  <a href="https://instagram.com/parasgupta26_" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-         alt="Instagram"
-         style="transition: all 0.3s ease; display: inline-block;"
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.filter='brightness(1.2)'"
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.filter='brightness(1)'"/>
+<div align="left">
+  <a href="https://linkedin.com/in/parasgupta-binary0101">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=LinkedIn&fontSize=40&fontColor=fff&animation=fadeIn" alt="LinkedIn"/>
   </a>
 </div>
+
+<p align="left">
+  <a href="https://linkedin.com/in/parasgupta-binary0101">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dfounderparas">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/parasgupta26_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
