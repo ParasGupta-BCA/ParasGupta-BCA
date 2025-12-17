@@ -51,36 +51,94 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 ## 🛠 Languages & Tools
 
 ### 📊 Data Analytics
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>
+      Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br/>
+      Pandas
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>
+      MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/>
+      Power BI
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🔐 Cyber & Cloud
-<p>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br/>
+      Google Cloud
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>
+      AWS
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>
+      Firebase
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🌐 Front-End Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br/>
+      HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>
+      CSS3
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
+      JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>
+      React
+    </td>
+  </tr>
+</table>
+
+---
 
 ### ⚙️ Tools & Platforms
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
-<img src="https://developer.android.com/images/logos/android.svg" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/><br/>
+      Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>
+      GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/><br/>
+      Zapier
+    </td>
+    <td align="center" width="120">
+      <img src="https://developer.android.com/images/logos/android.svg" width="40"/><br/>
+      Android
+    </td>
+  </tr>
+</table>
 
 ---
 
