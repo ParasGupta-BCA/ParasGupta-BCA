@@ -48,9 +48,9 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Languages & Tools (Data Analyst)
 
-### 📊 Data Analytics
+### 📊 Data Analytics & Visualization
 <table>
   <tr>
     <td align="center" width="120">
@@ -62,19 +62,61 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
       Pandas
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>
-      MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/><br/>
+      NumPy
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/>
       Power BI
     </td>
   </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Tableau_Logo.png" width="40"/><br/>
+      Tableau
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>
+      MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/><br/>
+      PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/><br/>
+      Excel
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🔐 Cyber & Cloud
+### 📈 Data Science & ML Basics
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/><br/>
+      Scikit-learn
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/><br/>
+      Matplotlib
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Seaborn_logo.svg" width="40"/><br/>
+      Seaborn
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/><br/>
+      Plotly
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☁️ Data, Cyber & Cloud Platforms
 <table>
   <tr>
     <td align="center" width="120">
@@ -89,12 +131,16 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>
       Firebase
     </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40"/><br/>
+      BigQuery
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Front-End Development
+### 🌐 Front-End (for Data Dashboards)
 <table>
   <tr>
     <td align="center" width="120">
@@ -118,7 +164,7 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools & Workflow
 <table>
   <tr>
     <td align="center" width="120">
@@ -130,12 +176,12 @@ Turning raw data into meaningful insights 📊 and building modern web experienc
       GitHub
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/><br/>
-      Zapier
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/><br/>
+      Jupyter
     </td>
     <td align="center" width="120">
-      <img src="https://developer.android.com/images/logos/android.svg" width="40"/><br/>
-      Android
+      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/><br/>
+      Zapier
     </td>
   </tr>
 </table>
