@@ -38,6 +38,12 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
   </a>
 </div>
 
+<div align="left">
+  <a href="https://twitter.com/dfounderparas">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=Twitter&fontSize=40&fontColor=fff&animation=fadeIn" alt="LinkedIn"/>
+  </a>
+</div>
+
 <p align="left">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
