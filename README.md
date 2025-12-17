@@ -32,21 +32,15 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/parasgupta-binary0101">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=LinkedIn%20LinkedIn&fontSize=42&fontColor=fff&animation=fadeIn" />
-  </a>
-</div>
-
 <p align="left">
   <a href="https://linkedin.com/in/parasgupta-binary0101">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn_Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
   <a href="https://twitter.com/dfounderparas">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter_Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="45"/>
   </a>
   <a href="https://instagram.com/parasgupta26_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram_Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="45"/>
   </a>
 </p>
 
