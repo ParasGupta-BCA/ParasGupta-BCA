@@ -170,4 +170,6 @@ Turning raw data into meaningful insights 📊 and building modern web dashboard
 
 ---
 
+<div align="center">
 ⭐ If you like my work, consider starring my repositories!
+</div>
