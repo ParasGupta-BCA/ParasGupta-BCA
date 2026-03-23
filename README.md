@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Gupta</h1>
 <h3 align="center">
-Aspiring Data Analyst | Cyber & Data Analytics Enthusiast | Front-End Web Developer
+Aspiring Data Analyst | Digital Marketing & Data Analytics Enthusiast | Front-End Developer
 </h3>
 
 <p align="center">
