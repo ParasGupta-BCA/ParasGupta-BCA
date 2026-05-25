@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Gupta</h1>
 
 <h3 align="center">
-📊 Data Analyst | 📈 Digital Marketing | 💻 Front-End Developer
+Data Analyst | Digital Marketing | Front-End Developer
 </h3>
 
 <p align="center">
