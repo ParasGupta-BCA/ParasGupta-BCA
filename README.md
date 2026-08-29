@@ -167,9 +167,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 ---
 
----
-
-<div align="center">
+<div align="left">
 
 # 🚀 Featured Projects
 
