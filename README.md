@@ -183,7 +183,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://indicachat-v3.vercel.app/_next/image?url=%2Ficon.png&w=48&q=75" hight="70" style="border-radius:6px;"/>
+<img src="https://indicachat-v3.vercel.app/_next/image?url=%2Ficon.png&w=48&q=75" height="70" style="border-radius:6px; vertical-align:middle;"/>
 <h4>AGENTIC CHAT — BOT ADVANCE</h4>
 <p><i>Not just a chatbot — a multi-provider AI agent platform.</i></p>
 <img src="https://img.shields.io/badge/Agentic%20AI%20%7C%20Multi--Provider-6C5CE7?style=flat-square"/>
