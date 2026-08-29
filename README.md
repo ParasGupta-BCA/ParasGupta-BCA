@@ -201,7 +201,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/AI%20Chat-00C853?style=flat-square"/> <img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/> <img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-<p>✨ Indica Chat, an AI assistant woven into the social feed</p>
+<br><br><p>✨ Indica Chat, an AI assistant woven into the social feed</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
 </td>
@@ -215,7 +215,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
-<p>✨ Hybrid app — WebView UI plus native background playback</p>
+<br><br><p>✨ Hybrid app — WebView UI plus native background playback</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
 </td>
@@ -227,7 +227,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-34A853?style=flat-square"/>
-<p>✨ Full WordPress → Next.js 14 migration, documented end-to-end</p>
+<br><br><p>✨ Full WordPress → Next.js 14 migration, documented end-to-end</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a> <a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
