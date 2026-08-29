@@ -173,124 +173,99 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 # 🚀 Featured Projects
 
-**Selected work across full-stack development, mobile engineering, AI integration, and digital marketing.**
+*Selected projects showcasing full-stack development, mobile engineering, AI integration, and real-world business problem solving.*
 
 </div>
 
-<br/>
-
-<table width="100%">
+<table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=70&section=header&text=Cookie%20Customers&fontSize=22&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=55&section=header&text=Cookie%20Customers&fontSize=20&fontColor=fff" />
 
-<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile%20Ecosystem-6C5CE7?style=flat-square"/>
+![Category](https://img.shields.io/badge/Full--Stack%20%7C%20Mobile%20Ecosystem-6C5CE7?style=flat-square)
 
-<br/><br/>
+**Quick-commerce ecosystem (customer + admin + rider apps)**
 
-**Quick-commerce ecosystem** — customer, admin, and rider apps in the style of Blinkit/Zepto, with live GPS order tracking, an in-app wallet, and real-time voice support.
+An end-to-end delivery platform in the style of Blinkit/Zepto — live order tracking, in-app wallet, multi-gateway UPI payments, and real-time voice support between customers and admins.
 
-<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora%20Voice-099DFD?style=flat-square)
+![UPI](https://img.shields.io/badge/Multi--Gateway%20UPI-FF6B00?style=flat-square)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Gateway%20UPI-FF6B00?style=flat-square"/>
+✨ **Key feature:** Live rider tracking with a Blinkit-style route UI, in-app wallet, and a payment layer supporting CashFree, PayU, and Razorpay with UPI intent routing.
 
-<br/><br/>
-
-✨ *Live rider tracking, in-app wallet, and CashFree/PayU/Razorpay UPI routing.*
-
-<br/><br/>
-
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=70&section=header&text=Friten&fontSize=22&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=55&section=header&text=Friten&fontSize=20&fontColor=fff" />
 
-<img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
+![Category](https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square)
 
-<br/><br/>
+**Social network with a built-in AI chat assistant**
 
-**Social network with built-in AI chat** — users message each other and **Indica Chat**, an integrated AI assistant, in one place, with a dedicated Windows client.
+A social networking platform where users can chat with each other and with **Indica Chat**, an integrated AI assistant, all in one place — extended to a dedicated Windows client.
 
-<br/>
+![AI Chat](https://img.shields.io/badge/AI%20Chat%20Integration-00C853?style=flat-square)
+![Real-time](https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-<img src="https://img.shields.io/badge/AI%20Chat%20Integration-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+✨ **Key feature:** Indica Chat, a native AI assistant woven directly into the social feed and messaging experience.
 
-<br/><br/>
-
-✨ *Indica Chat, a native AI assistant woven into the social feed and messaging.*
-
-<br/><br/>
-
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=70&section=header&text=Friten%20Music&fontSize=22&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=55&section=header&text=Friten%20Music&fontSize=20&fontColor=fff" />
 
-<img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
+![Category](https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square)
 
-<br/><br/>
+**Ad-free Android music streaming app**
 
-**Ad-free Android streaming app** — a hybrid app pairing a WebView front-end with a native media service, so playback keeps running in the background.
+A hybrid Android app pairing a WebView front-end with a native media service, so playback keeps running in the background — an ad-free alternative to mainstream streaming apps.
 
-<br/>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![WebView](https://img.shields.io/badge/WebView-4285F4?style=flat-square)
+![Native Media Service](https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
+✨ **Key feature:** Hybrid architecture — WebView UI + native background playback — instead of a pure webview shell.
 
-<br/><br/>
-
-✨ *Hybrid architecture: WebView UI plus native background playback, not just a webview shell.*
-
-<br/><br/>
-
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=70&section=header&text=Tirupati%20Cable&fontSize=22&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=55&section=header&text=Tirupati%20Cable&fontSize=20&fontColor=fff" />
 
-<img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
+![Category](https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square)
 
-<br/><br/>
+**Site migration + SEO for a B2B manufacturer**
 
-**Site migration + SEO for a B2B manufacturer** — moved a live client site from WordPress to Next.js 14 and ran SEO to grow organic visibility.
+Migrated a live B2B wire and cable manufacturer's site from WordPress to Next.js 14, then ran SEO — keyword research, sitemap generation, and meta tag optimization — to grow organic visibility.
 
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress%20Migration-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-<img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
+✨ **Key feature:** Full WordPress → Next.js 14 migration for a live client site, documented end-to-end in a project report.
 
-<br/><br/>
-
-✨ *Full WordPress → Next.js 14 migration for a live client site, documented in a project report.*
-
-<br/><br/>
-
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-<a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 
