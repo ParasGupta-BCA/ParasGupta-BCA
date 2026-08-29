@@ -173,7 +173,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 # 🚀 Featured Projects
 
-*Selected projects showcasing full-stack development, mobile engineering, AI integration, and real-world business problem solving.*
+*Selected projects showcasing agentic AI, full-stack development, and real-world problem solving.*
 
 </div>
 
@@ -184,25 +184,25 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <td width="50%" valign="top" align="center">
 
 <img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
-<h4>COOKIE CUSTOMERS</h4>
-<p><i>Full-stack quick-commerce for every step of delivery.</i></p>
-<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-6C5CE7?style=flat-square"/>
+<h4>AGENTIC CHAT — BOT ADVANCE</h4>
+<p><i>Not just a chatbot — a multi-provider AI agent platform.</i></p>
+<img src="https://img.shields.io/badge/Agentic%20AI%20%7C%20Multi--Provider-6C5CE7?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/> <img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
-<br><br><p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/xAI-000000?style=flat-square"/> <img src="https://img.shields.io/badge/OpenRouter-6E56CF?style=flat-square"/>
+<p>✨ Web search, image generation, document (PDF) generation, 24/7 workflow automation, and custom agent creation — all in one agent, unified across every major LLM provider.</p>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://indicachat-v3.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
-<h4>FRITEN</h4>
-<p><i>More human connection, powered by AI chat.</i></p>
-<img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
+<h4>ID CARD DETECTION SYSTEM</h4>
+<p><i>Scan a college ID, mark attendance — automatically.</i></p>
+<img src="https://img.shields.io/badge/Computer%20Vision%20%7C%20College%20Project-0A66C2?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/AI%20Chat-00C853?style=flat-square"/> <img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/> <img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-<br><br><p>✨ Indica Chat, an AI assistant woven into the social feed</p>
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/ID%20Card%20Scanning-00C853?style=flat-square"/> <img src="https://img.shields.io/badge/Auto%20Attendance-1DA1F2?style=flat-square"/> <img src="https://img.shields.io/badge/Real--World%20Deployment-0078D6?style=flat-square"/>
+<p>✨ Built for real classroom use — detects a scanned college ID card and automatically records and stores attendance, no manual entry needed.</p>
+<a href="https://github.com/ParasGupta-BCA/ID-Card_Detection_System"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -210,25 +210,25 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <td width="50%" valign="top" align="center">
 
 <img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
-<h4>FRITEN MUSIC</h4>
-<p><i>Ad-free listening, built for the background.</i></p>
-<img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
+<h4>ATTENDANCE PORTAL</h4>
+<p><i>Final year project — QR-based attendance for an entire college.</i></p>
+<img src="https://img.shields.io/badge/Final%20Year%20Project%20%7C%20Full--Stack-E4405F?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
-<br><br><p>✨ Hybrid app — WebView UI plus native background playback</p>
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/QR%20Code%20Detection-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Admin%20Portal-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Faculty%20Portal-FF6D00?style=flat-square"/> <img src="https://img.shields.io/badge/Student%20Portal-9C27B0?style=flat-square"/>
+<p>✨ A complete QR-based attendance system with dedicated admin, faculty, and student portals — built as a proper, college-wide contribution, not just a demo.</p>
+<a href="https://github.com/ParasGupta-BCA/AttendancePortal-Project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
-<h4>TIRUPATI CABLE</h4>
-<p><i>From WordPress to Next.js, built for growth.</i></p>
-<img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
+<h4>COOKIE CUSTOMERS</h4>
+<p><i>Full-stack quick-commerce for every step of delivery.</i></p>
+<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-F59E0B?style=flat-square"/>
 <br/>
-<img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-34A853?style=flat-square"/>
-<br><br><p>✨ Full WordPress → Next.js 14 migration, documented end-to-end</p>
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a> <a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/> <img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
+<p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
 </td>
 </tr>
