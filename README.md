@@ -221,7 +221,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
+<img src="https://imgs.search.brave.com/aF3f5rwzzayp-7OMe-R-LdZp_FEDUiKWU5ODCEf4f7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDQv/MzA4LzI4MS9zbWFs/bC9jaG9jb2xhdGUt/Y2hpcC1jb29raWVz/LXdpdGgtdHJhbnNw/YXJlbnQtYmFja2dy/b3VuZC1wbmcucG5n" height="50" style="border-radius:6px;"/>
 <h4>COOKIE CUSTOMERS</h4>
 <p><i>Full-stack quick-commerce for every step of delivery.</i></p>
 <img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-F59E0B?style=flat-square"/>
