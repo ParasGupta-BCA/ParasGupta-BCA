@@ -195,7 +195,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 </td>
 <td width="50%" valign="top" align="center">
 
-<h4><img src="https://static.vecteezy.com/system/resources/thumbnails/069/514/240/small_2x/id-card-with-rainbow-frame-and-blue-holder-on-transparent-background-png.png" height="20" style="border-radius:6px; vertical-align:middle;"/> ID CARD DETECTION SYSTEM</h4>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/069/514/240/small_2x/id-card-with-rainbow-frame-and-blue-holder-on-transparent-background-png.png" height="20" style="border-radius:6px; vertical-align:middle;"/>
 <h4>ID CARD DETECTION SYSTEM</h4>
 <p><i>Scan a college ID, mark attendance — automatically.</i></p>
 <img src="https://img.shields.io/badge/Computer%20Vision%20%7C%20College%20Project-0A66C2?style=flat-square"/>
