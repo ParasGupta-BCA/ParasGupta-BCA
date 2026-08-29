@@ -189,7 +189,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-6C5CE7?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/> <img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
-<br><p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
+<br><br><p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
 </td>
