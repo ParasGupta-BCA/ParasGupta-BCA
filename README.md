@@ -189,7 +189,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Agentic%20AI%20%7C%20Multi--Provider-6C5CE7?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/xAI-000000?style=flat-square"/> <img src="https://img.shields.io/badge/OpenRouter-6E56CF?style=flat-square"/>
-<p>✨ Web search, image generation, document (PDF) generation, 24/7 workflow automation, and custom agent creation — all in one agent, unified across every major LLM provider.</p>
+<br><br><p>✨ Web search, image generation, document (PDF) generation, 24/7 workflow automation, and custom agent creation — all in one agent, unified across every major LLM provider.</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://indicachat-v3.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
@@ -201,7 +201,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Computer%20Vision%20%7C%20College%20Project-0A66C2?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/ID%20Card%20Scanning-00C853?style=flat-square"/> <img src="https://img.shields.io/badge/Auto%20Attendance-1DA1F2?style=flat-square"/> <img src="https://img.shields.io/badge/Real--World%20Deployment-0078D6?style=flat-square"/>
-<p>✨ Built for real classroom use — detects a scanned college ID card and automatically records and stores attendance, no manual entry needed.</p>
+<br><br><p>✨ Built for real classroom use — detects a scanned college ID card and automatically records and stores attendance, no manual entry needed.</p>
 <a href="https://github.com/ParasGupta-BCA/ID-Card_Detection_System"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
