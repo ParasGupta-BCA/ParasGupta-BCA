@@ -209,7 +209,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://www.attendance-portal.in/logo.png" height="70" style="border-radius:6px;"/>
+<img src="https://www.attendance-portal.in/logo.png" height="50" style="border-radius:6px;"/>
 <h4>ATTENDANCE PORTAL</h4>
 <p><i>Final year project — QR-based attendance for an entire college.</i></p>
 <img src="https://img.shields.io/badge/Final%20Year%20Project%20%7C%20Full--Stack-E4405F?style=flat-square"/>
