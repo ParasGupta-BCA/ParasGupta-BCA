@@ -179,65 +179,59 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
-
-<table width="100%">
-<tr><td align="center">
+<img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
 
 <h4>COOKIE CUSTOMERS</h4>
 <p><i>Full-stack quick-commerce for every step of delivery.</i></p>
 
 <img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-6C5CE7?style=flat-square"/>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
 <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/>
 <img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
+
 <br/><br/>
 
 ✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)
+
 <br/><br/>
 
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
-</td></tr>
-</table>
-
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
-
-<table width="100%">
-<tr><td align="center">
+<img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
 
 <h4>FRITEN</h4>
 <p><i>More human connection, powered by AI chat.</i></p>
 
 <img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/AI%20Chat-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+
 <br/><br/>
 
 ✨ Indica Chat, an AI assistant woven into the social feed
+
 <br/><br/>
 
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
-
-</td></tr>
-</table>
 
 </td>
 
@@ -246,59 +240,53 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
-
-<table width="100%">
-<tr><td align="center">
+<img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
 
 <h4>FRITEN MUSIC</h4>
 <p><i>Ad-free listening, built for the background.</i></p>
 
 <img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
+
 <br/><br/>
 
 ✨ Hybrid app — WebView UI plus native background playback
+
 <br/><br/>
 
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
-</td></tr>
-</table>
-
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
-
-<table width="100%">
-<tr><td align="center">
+<img src="PROJECT_IMAGE_URL" width="180" style="border-radius:6px;"/>
 
 <h4>TIRUPATI CABLE</h4>
 <p><i>From WordPress to Next.js, built for growth.</i></p>
 
 <img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-34A853?style=flat-square"/>
+
 <br/><br/>
 
 ✨ Full WordPress → Next.js 14 migration, documented end-to-end
+
 <br/><br/>
 
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</td></tr>
-</table>
 
 </td>
 
