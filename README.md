@@ -214,11 +214,10 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <br/>
 <img src="https://img.shields.io/badge/QR%20Code%20Detection-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Admin%20Portal-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Faculty%20Portal-FF6D00?style=flat-square"/> <img src="https://img.shields.io/badge/Student%20Portal-9C27B0?style=flat-square"/>
 <br><br><p>✨ A complete QR-based attendance system with dedicated admin, faculty, and student portals — built as a proper, college-wide contribution, not just a demo.</p>
-<a href="https://github.com/ParasGupta-BCA/AttendancePortal-Project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="https://github.com/ParasGupta-BCA/AttendancePortal-Project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.attendance-portal.in/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top" align="center">
-
+  
 <img src="https://imgs.search.brave.com/aF3f5rwzzayp-7OMe-R-LdZp_FEDUiKWU5ODCEf4f7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDQv/MzA4LzI4MS9zbWFs/bC9jaG9jb2xhdGUt/Y2hpcC1jb29raWVz/LXdpdGgtdHJhbnNw/YXJlbnQtYmFja2dy/b3VuZC1wbmcucG5n" height="50" style="border-radius:6px;"/>
 <h4>COOKIE CUSTOMERS</h4>
 <p><i>Full-stack quick-commerce for every step of delivery.</i></p>
