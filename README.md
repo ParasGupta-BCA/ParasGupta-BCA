@@ -177,49 +177,75 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 
 </div>
 
+<br/>
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=55&section=header&text=Cookie%20Customers&fontSize=20&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=55&section=header&text=Cookie%20Customers&fontSize=20&fontColor=fff"/>
 
-![Category](https://img.shields.io/badge/Full--Stack%20%7C%20Mobile%20Ecosystem-6C5CE7?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile%20Ecosystem-6C5CE7?style=flat-square"/>
+</p>
 
 **Quick-commerce ecosystem (customer + admin + rider apps)**
 
 An end-to-end delivery platform in the style of Blinkit/Zepto — live order tracking, in-app wallet, multi-gateway UPI payments, and real-time voice support between customers and admins.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora%20Voice-099DFD?style=flat-square)
-![UPI](https://img.shields.io/badge/Multi--Gateway%20UPI-FF6B00?style=flat-square)
+<hr/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agora%20Voice-099DFD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Gateway%20UPI-FF6B00?style=flat-square"/>
+</p>
 
 ✨ **Key feature:** Live rider tracking with a Blinkit-style route UI, in-app wallet, and a payment layer supporting CashFree, PayU, and Razorpay with UPI intent routing.
 
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<hr/>
+
+<p align="center">
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=6&section=footer"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=55&section=header&text=Friten&fontSize=20&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=55&section=header&text=Friten&fontSize=20&fontColor=fff"/>
 
-![Category](https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
+</p>
 
 **Social network with a built-in AI chat assistant**
 
 A social networking platform where users can chat with each other and with **Indica Chat**, an integrated AI assistant, all in one place — extended to a dedicated Windows client.
 
-![AI Chat](https://img.shields.io/badge/AI%20Chat%20Integration-00C853?style=flat-square)
-![Real-time](https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white)
+<hr/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Chat%20Integration-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+</p>
 
 ✨ **Key feature:** Indica Chat, a native AI assistant woven directly into the social feed and messaging experience.
 
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<hr/>
+
+<p align="center">
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=6&section=footer"/>
 
 </td>
 
@@ -228,44 +254,68 @@ A social networking platform where users can chat with each other and with **Ind
 
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=55&section=header&text=Friten%20Music&fontSize=20&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=55&section=header&text=Friten%20Music&fontSize=20&fontColor=fff"/>
 
-![Category](https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
+</p>
 
 **Ad-free Android music streaming app**
 
 A hybrid Android app pairing a WebView front-end with a native media service, so playback keeps running in the background — an ad-free alternative to mainstream streaming apps.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![WebView](https://img.shields.io/badge/WebView-4285F4?style=flat-square)
-![Native Media Service](https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square)
+<hr/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
+</p>
 
 ✨ **Key feature:** Hybrid architecture — WebView UI + native background playback — instead of a pure webview shell.
 
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+<hr/>
+
+<p align="center">
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=6&section=footer"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=55&section=header&text=Tirupati%20Cable&fontSize=20&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=55&section=header&text=Tirupati%20Cable&fontSize=20&fontColor=fff"/>
 
-![Category](https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
+</p>
 
 **Site migration + SEO for a B2B manufacturer**
 
 Migrated a live B2B wire and cable manufacturer's site from WordPress to Next.js 14, then ran SEO — keyword research, sitemap generation, and meta tag optimization — to grow organic visibility.
 
-![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress%20Migration-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<hr/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress%20Migration-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+</p>
 
 ✨ **Key feature:** Full WordPress → Next.js 14 migration for a live client site, documented end-to-end in a project report.
 
-<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<hr/>
+
+<p align="center">
+<a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=6&section=footer"/>
 
 </td>
 
