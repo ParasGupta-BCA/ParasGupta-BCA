@@ -215,7 +215,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Final%20Year%20Project%20%7C%20Full--Stack-E4405F?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/QR%20Code%20Detection-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Admin%20Portal-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/Faculty%20Portal-FF6D00?style=flat-square"/> <img src="https://img.shields.io/badge/Student%20Portal-9C27B0?style=flat-square"/>
-<p>✨ A complete QR-based attendance system with dedicated admin, faculty, and student portals — built as a proper, college-wide contribution, not just a demo.</p>
+<br><br><p>✨ A complete QR-based attendance system with dedicated admin, faculty, and student portals — built as a proper, college-wide contribution, not just a demo.</p>
 <a href="https://github.com/ParasGupta-BCA/AttendancePortal-Project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
@@ -227,7 +227,7 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-F59E0B?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/> <img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
-<p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
+<br><br><p>✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)</p>
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
 </td>
