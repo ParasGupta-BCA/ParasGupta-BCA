@@ -182,140 +182,123 @@ Transforming data into actionable insights, growing brands digitally, and buildi
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=55&section=header&text=Cookie%20Customers&fontSize=20&fontColor=fff"/>
+<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile%20Ecosystem-6C5CE7?style=flat-square"/>
-</p>
+<table width="100%">
+<tr><td align="center">
 
-**Quick-commerce ecosystem (customer + admin + rider apps)**
+<h4>COOKIE CUSTOMERS</h4>
+<p><i>Full-stack quick-commerce for every step of delivery.</i></p>
 
-An end-to-end delivery platform in the style of Blinkit/Zepto — live order tracking, in-app wallet, multi-gateway UPI payments, and real-time voice support between customers and admins.
+<img src="https://img.shields.io/badge/Full--Stack%20%7C%20Mobile-6C5CE7?style=flat-square"/>
+<br/><br/>
 
-<hr/>
-
-<p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agora%20Voice-099DFD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Gateway%20UPI-FF6B00?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square"/>
+<img src="https://img.shields.io/badge/UPI-FF6B00?style=flat-square"/>
+<br/><br/>
 
-✨ **Key feature:** Live rider tracking with a Blinkit-style route UI, in-app wallet, and a payment layer supporting CashFree, PayU, and Razorpay with UPI intent routing.
+✨ Live rider tracking, in-app wallet, multi-gateway UPI (CashFree/PayU/Razorpay)
+<br/><br/>
 
-<hr/>
-
-<p align="center">
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=6&section=footer"/>
+</td></tr>
+</table>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=55&section=header&text=Friten&fontSize=20&fontColor=fff"/>
+<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
 
-<p align="center">
+<table width="100%">
+<tr><td align="center">
+
+<h4>FRITEN</h4>
+<p><i>More human connection, powered by AI chat.</i></p>
+
 <img src="https://img.shields.io/badge/Social%20Platform%20%7C%20AI-0A66C2?style=flat-square"/>
-</p>
+<br/><br/>
 
-**Social network with a built-in AI chat assistant**
-
-A social networking platform where users can chat with each other and with **Indica Chat**, an integrated AI assistant, all in one place — extended to a dedicated Windows client.
-
-<hr/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20Chat%20Integration-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Chat-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/Real--time%20Messaging-1DA1F2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Windows%20App-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-</p>
+<br/><br/>
 
-✨ **Key feature:** Indica Chat, a native AI assistant woven directly into the social feed and messaging experience.
+✨ Indica Chat, an AI assistant woven into the social feed
+<br/><br/>
 
-<hr/>
-
-<p align="center">
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+<a href="https://friten.in"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,17,22&height=6&section=footer"/>
+</td></tr>
+</table>
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=55&section=header&text=Friten%20Music&fontSize=20&fontColor=fff"/>
+<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
 
-<p align="center">
+<table width="100%">
+<tr><td align="center">
+
+<h4>FRITEN MUSIC</h4>
+<p><i>Ad-free listening, built for the background.</i></p>
+
 <img src="https://img.shields.io/badge/Android%20%7C%20Media%20Streaming-E4405F?style=flat-square"/>
-</p>
+<br/><br/>
 
-**Ad-free Android music streaming app**
-
-A hybrid Android app pairing a WebView front-end with a native media service, so playback keeps running in the background — an ad-free alternative to mainstream streaming apps.
-
-<hr/>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebView-4285F4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Native%20Media%20Service-FF6D00?style=flat-square"/>
-</p>
+<br/><br/>
 
-✨ **Key feature:** Hybrid architecture — WebView UI + native background playback — instead of a pure webview shell.
+✨ Hybrid app — WebView UI plus native background playback
+<br/><br/>
 
-<hr/>
-
-<p align="center">
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-808080?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-</p>
+<a href="PROJECT_LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2F2F2F?style=for-the-badge"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,7,14&height=6&section=footer"/>
+</td></tr>
+</table>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=55&section=header&text=Tirupati%20Cable&fontSize=20&fontColor=fff"/>
+<img src="PROJECT_IMAGE_URL" width="230" style="border-radius:6px;" /><br/>
 
-<p align="center">
+<table width="100%">
+<tr><td align="center">
+
+<h4>TIRUPATI CABLE</h4>
+<p><i>From WordPress to Next.js, built for growth.</i></p>
+
 <img src="https://img.shields.io/badge/Digital%20Marketing%20%7C%20Web%20Migration-F59E0B?style=flat-square"/>
-</p>
+<br/><br/>
 
-**Site migration + SEO for a B2B manufacturer**
-
-Migrated a live B2B wire and cable manufacturer's site from WordPress to Next.js 14, then ran SEO — keyword research, sitemap generation, and meta tag optimization — to grow organic visibility.
-
-<hr/>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress%20Migration-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SEO-34A853?style=flat-square"/>
+<br/><br/>
 
-✨ **Key feature:** Full WordPress → Next.js 14 migration for a live client site, documented end-to-end in a project report.
+✨ Full WordPress → Next.js 14 migration, documented end-to-end
+<br/><br/>
 
-<hr/>
-
-<p align="center">
 <a href="PROJECT_GITHUB_URL"><img src="https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="https://tirupaticable.com"><img src="https://img.shields.io/badge/Visit%20Live%20Site-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,9&height=6&section=footer"/>
+</td></tr>
+</table>
 
 </td>
 
